@@ -13,8 +13,6 @@ const __dirname = dirname(__filename);
 // Resolve the absolute path to package.json
 const pkg = JSON.parse(readFileSync(resolve(__dirname, '../package.json'), 'utf-8'));
 
-console.log(process.argv);
-
 program
     .version(pkg.version)
     .description(pkg.description)
