@@ -1,0 +1,22 @@
+{
+  "name": "cryptodex",
+  "version": "1.0.0",
+  "description": "my small cryptocurrency price fetcher cli tool",
+  "main": "cryptodex.js",
+  "bin": "./bin/cryptodex.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prathamesh Gandule",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "colors": "^1.4.0",
+    "commander": "^12.1.0",
+    "configstore": "^7.0.0",
+    "dotenv": "^16.4.5",
+    "inquirer": "^12.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}
