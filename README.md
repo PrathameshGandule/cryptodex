@@ -2,6 +2,7 @@
 - My simple cryptocurrencies price fetching tool
 - Get FREE Market data APIKEY on [coinapi.io](https://www.coinapi.io/get-free-api-key?product_id=market-data-api)
 ***
+![cryptodex-cli-screenshot](./media/cryptodex_image.png)
 ### To install it on windows
 ```bash
 git clone https://github.com/PrathameshGandule/cryptodex.git
@@ -11,7 +12,7 @@ npm install -g
 cryptodex.cmd
 ```
 - Now you can use your tool to fetch cryptocoin's prices
-### To install it on Linux
+### To install it on Linux based OS / MacOS
 ```bash
 git clone https://github.com/PrathameshGandule/cryptodex.git
 cd cryptodex
@@ -19,7 +20,7 @@ npm i
 npm link
 cryptodex
 ```
-- Now you can use it on linux based OS
+- Now you can use it on linux based OS / MacOS
 ***
 ## Commands
 - `cryptodex` - to view it's description and options
