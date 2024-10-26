@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "my small cryptocurrency price fetcher cli tool",
   "main": "cryptodex.js",
-  "bin": "./bin/cryptodex.js",
+  "bin": {
+    "cryptodex" : "./bin/cryptodex.js"
+  },
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
