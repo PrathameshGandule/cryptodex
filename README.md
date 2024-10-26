@@ -36,4 +36,4 @@ cryptodex
         ```
 ***
 - Make sure to use `cryptodex.cmd` in windows instead of just `cryptodex`
-- Make sure to get your own apikey from [coinapi.io](coinapi.io)
+- Make sure to get your own apikey from [coinapi.io](https://www.coinapi.io/)
