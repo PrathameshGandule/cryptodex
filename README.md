@@ -1,5 +1,5 @@
 # CRYPTODEX
-- My simple cryptocurrncies price fetching tool
+- My simple cryptocurrencies price fetching tool
 - Get FREE Market data APIKEY on [coinapi.io](https://www.coinapi.io/get-free-api-key?product_id=market-data-api)
 ***
 ### To install it on windows
